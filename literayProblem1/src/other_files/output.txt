@@ -1,0 +1,6 @@
+Output:
+  1 book: 13.74
+  1 music CD: 16.49
+  1 chocolate bar: 0.85
+  TAX: 2.75
+  TOTAL: 31.08
